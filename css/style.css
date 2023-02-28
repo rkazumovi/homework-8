@@ -1,0 +1,66 @@
+body {
+    background-image: url(../image/winter.jpg);
+}
+.snowflake-1 {
+    width: 80px;
+    position: absolute;
+    top: 2%;
+    left: 5%;
+    animation: snowflake-1 3s infinite;
+}
+.snowflake-2 {
+    width: 100px;
+    position: absolute;
+    top: 5%;
+    left: 15%;
+    animation: snowflake-2 4s infinite;
+}
+.snowflake-3 {
+    width: 90px;
+    position: absolute;
+    top: 0%;
+    left: 30%;
+    animation: snowflake-3 2s infinite;
+}
+.snowflake-4 {
+    width: 80px;
+    position: absolute;
+    top: 7%;
+    left: 45%;
+    animation: snowflake-4 3s infinite;
+}
+.snowflake-5 {
+    width: 70px;
+    position: absolute;
+    top: 5%;
+    left: 55%;
+    animation: snowflake-5 4s infinite;
+}
+.snowflake-6 {
+    width: 100px;
+    position: absolute;
+    top: 30%;
+    left: 65%;
+    animation: snowflake-6 3s infinite;
+}
+.snowflake-7 {
+    width: 80px;
+    position: absolute;
+    top: 8%;
+    left: 75%;
+    animation: snowflake-7 2s infinite;
+}
+.snowflake-8 {
+    width: 70px;
+    position: absolute;
+    top: 10%;
+    left: 85%;
+    animation: snowflake-8 4s infinite;
+}
+.snowflake-9 {
+    width: 90px;
+    position: absolute;
+    top: 9%;
+    left: 90%;
+    animation: snowflake-9 3s infinite;
+}
